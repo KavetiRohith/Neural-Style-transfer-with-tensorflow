@@ -1,4 +1,4 @@
-## Neural-Style-transfer-with-tensorflow
+# Neural-Style-transfer-with-tensorflow
 
 # The project has the following parts
 
